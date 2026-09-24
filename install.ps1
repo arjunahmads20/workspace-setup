@@ -24,9 +24,6 @@ $apps = @(
     "Python.Python.3.13"
     "Microsoft.OpenJDK.21"
 
-    # VPN
-    "Fortinet.FortiClientVPN"
-
     # Utilities
     "7zip.7zip"
 
