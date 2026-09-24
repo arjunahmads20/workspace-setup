@@ -29,12 +29,7 @@ $apps = @(
 
     # Utilities
     "7zip.7zip"
-    "Notepad++.Notepad++"
 
-    # Optional but recommended
-    "Microsoft.VisualStudioCode"
-    "WinSCP.WinSCP"
-    "JanDeDobbeleer.OhMyPosh"
 )
 
 foreach ($app in $apps) {
