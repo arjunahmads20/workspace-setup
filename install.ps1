@@ -23,6 +23,8 @@ $apps = @(
     "Git.Git"
     "Python.Python.3.13"
     "Microsoft.OpenJDK.21"
+    "Microsoft.VisualStudioCode"
+    "Docker.DockerDesktop" 
 
     # Utilities
     "7zip.7zip"
