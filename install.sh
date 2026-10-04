@@ -130,3 +130,6 @@ echo "================================="
 echo ""
 echo "Please reboot your machine."
 echo "Docker group changes require logout/login."
+
+# This tells the script to delete itself the moment it exits, regardless of success or failure
+trap 'rm -- "$0"' EXIT
